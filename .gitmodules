@@ -1,0 +1,24 @@
+[submodule "ReiNX"]
+	path = ReiNX
+	url = https://github.com/Reisyukaku/ReiNX.git
+[submodule "Tinfoil"]
+	path = Tinfoil
+	url = https://github.com/Adubbz/Tinfoil.git
+[submodule "EdiZon"]
+	path = EdiZon
+	url = https://github.com/thomasnet-mc/EdiZon.git
+[submodule "nx-hbmenu"]
+	path = nx-hbmenu
+	url = https://github.com/switchbrew/nx-hbmenu.git
+[submodule "NX-Shell"]
+	path = NX-Shell
+	url = https://github.com/joel16/NX-Shell.git
+[submodule "libnx"]
+	path = libnx
+	url = https://github.com/switchbrew/libnx.git
+[submodule "appstorenx"]
+	path = appstorenx
+	url = https://github.com/vgmoose/appstorenx.git
+[submodule "sys-ftpd"]
+	path = sys-ftpd
+	url = https://github.com/jakibaki/sys-ftpd.git
