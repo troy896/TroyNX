@@ -10,9 +10,6 @@
 [submodule "nx-hbmenu"]
 	path = nx-hbmenu
 	url = https://github.com/switchbrew/nx-hbmenu.git
-[submodule "NX-Shell"]
-	path = NX-Shell
-	url = https://github.com/joel16/NX-Shell.git
 [submodule "libnx"]
 	path = libnx
 	url = https://github.com/switchbrew/libnx.git
@@ -22,3 +19,7 @@
 [submodule "sys-ftpd"]
 	path = sys-ftpd
 	url = https://github.com/jakibaki/sys-ftpd.git
+[submodule "NX-Shell"]
+	path = NX-Shell
+	url = https://github.com/joel16/NX-Shell.git
+	branch = gh-pages
